@@ -1,4 +1,4 @@
-Electric Vehicle Market Analysis and Growth Forecast (EDA)
+Electric Vehicle Market Analysis and Growth Forecast (EDA)  [DataSet]([url](https://statso.io/market-size-of-evs-case-study/))
 
 In this comprehensive project, I performed Exploratory Data Analysis (EDA) on a dataset related to the electric vehicle (EV) market, with the goal of uncovering key insights and forecasting the industry's growth over the next five years. The analysis was designed to explore trends in the adoption, production, and sales of EVs, which are pivotal in understanding the future trajectory of this rapidly growing sector.
 
